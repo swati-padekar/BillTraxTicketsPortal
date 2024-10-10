@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.18.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.2",
+    "libraryName": "bill-trax",
+    "libraryId": "a909804e-cc08-458d-a0cd-1af737353933",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "BillTrax",
+    "solutionShortDescription": "BillTrax description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
